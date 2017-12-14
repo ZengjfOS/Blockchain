@@ -1,4 +1,4 @@
-# Bitcoin Quick Glossary
+# Ethereum Wallet Testnet
 
 以太坊的英文全称是 Ethereum，以太币的符号是三个横杠（Ξ），也叫 ETH、ether。
 
@@ -14,3 +14,17 @@
 ## Ethereum Wallet
 
 ![img/ethereum_wallet.png](img/ethereum_wallet.png)
+
+### testnet
+
+* support testnet
+  ![img/ethereum_develop_testnet.png](img/ethereum_develop_testnet.png)
+* create account
+  ![img/ethereum_develop_testnet_create_account.png](img/ethereum_develop_testnet_create_account.png)
+* create account success
+  ![img/ethereum_develop_testnet_create_account_backup.png](img/ethereum_develop_testnet_create_account_backup.png)
+* testnet mining
+  ![img/ethereum_develop_testnet_mining.png](img/ethereum_develop_testnet_mining.png)
+* after 30 minite
+  ![img/ethereum_develop_get_enough_ether.png](img/ethereum_develop_get_enough_ether.png)
+
