@@ -6,6 +6,14 @@
 * [Solidity 编程实例](http://book.8btc.com/books/6/solidity-zh/_book/solidity-example.html)
 * [Smart Contracts](https://solidity.readthedocs.io/en/latest/introduction-to-smart-contracts.html)
 * [区块链技术-智能合约Solidity编程语言](http://www.tryblockchain.org/index.html)
+* [solidity-baby-steps](https://github.com/fivedogit/solidity-baby-steps)
+
+## Solidity IDE
+
+[https://remix.ethereum.org](https://remix.ethereum.org)
+
+**Help Docs**:  
+[Remix - Solidity IDE](https://remix.readthedocs.io/en/latest/)
 
 ## Docs List
 
