@@ -8,6 +8,7 @@
 
 ## Docs List
 
+* [docs/0009_Ethereum_Truffle.md](docs/0009_Ethereum_Truffle.md)
 * [docs/0008_Ethereum_Solidity.md](docs/0008_Ethereum_Solidity.md)
 * [docs/0007_A_Peer-to-Peer_Electronic_Cash_System.md](docs/0007_A_Peer-to-Peer_Electronic_Cash_System.md)
 * [docs/0006_Ethereum_Homestead_Docs.md](docs/0006_Ethereum_Homestead_Docs.md)
