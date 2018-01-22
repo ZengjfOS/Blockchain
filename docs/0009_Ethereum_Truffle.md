@@ -15,6 +15,7 @@ desk@desk-ubuntu:~/blockchain/docs/truffle$
 * [How to install Node.js 6.x Long-Term Support (LTS) on Ubuntu/Debian and CentOS](https://www.metachris.com/2017/01/how-to-install-nodejs-6-lts-on-ubuntu-and-centos/)
 * http://truffleframework.com/docs/
 * http://truffleframework.com/tutorials/
+* [明说以太坊区块链](http://ethfans.org/episodes)
 
 ## Install
 
