@@ -7,6 +7,7 @@
 * [Master Bitcoin](http://zhibimo.com/read/wang-miao/mastering-bitcoin/index.html)
 * [bitcoinbook](https://github.com/bitcoinbook/bitcoinbook)
 * [如何学习区块链技术？](https://www.zhihu.com/question/51047975/answer/133835369)
+* [以太坊私网建立 、合约编译、部署完全教程（1）](https://www.youtube.com/watch?v=RhoZOjDeA68)
 
 ## Docs List
 
