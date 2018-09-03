@@ -8,6 +8,7 @@
 * [bitcoinbook](https://github.com/bitcoinbook/bitcoinbook)
 * [如何学习区块链技术？](https://www.zhihu.com/question/51047975/answer/133835369)
 * [以太坊私网建立 、合约编译、部署完全教程（1）](https://www.youtube.com/watch?v=RhoZOjDeA68)
+* [何为量化回测、量化交易？](https://xueqiu.com/5808549553/88613300)
 
 ## Docs List
 
